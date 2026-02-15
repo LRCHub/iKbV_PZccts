@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Say What?",
+  "base_artist": "B小町 ルビー（CV：伊駒ゆりえ）、有馬かな（CV：潘めぐみ）、MEMちょ（CV：大久保瑠美）",
+  "createdAt": "2026-02-15T20:47:21.066913Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Say What You Say",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/01_Say_What_You_Say_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Say What You Will",
+      "artist": "James Blake",
+      "has_synced": true,
+      "path": "select/02_Say_What_You_Will_James_Blake.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Say What You Want",
+      "artist": "Texas",
+      "has_synced": true,
+      "path": "select/03_Say_What_You_Want_Texas.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Say What You Want",
+      "artist": "Texas",
+      "has_synced": true,
+      "path": "select/04_Say_What_You_Want_Texas.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Say What You Want (album version)",
+      "artist": "Texas",
+      "has_synced": false,
+      "path": "select/05_Say_What_You_Want_(album_version)_Texas.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Say What You Want (Bonus Track) (Live)",
+      "artist": "Texas",
+      "has_synced": false,
+      "path": "select/06_Say_What_You_Want_(Bonus_Track)_(Live)_Texas.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Say What You Want (Rae & Christian mix)",
+      "artist": "Texas",
+      "has_synced": false,
+      "path": "select/07_Say_What_You_Want_(Rae_&_Christian_mix)_Texas.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Say What You Want",
+      "artist": "Night Ranger",
+      "has_synced": false,
+      "path": "select/08_Say_What_You_Want_Night_Ranger.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Say What",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/09_Say_What_Erasure.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Say What - 2011 Remastered Version",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/10_Say_What_-_2011_Remastered_Version_Erasure.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Say What (Live at the Knopf Music Halle, Hamburg)",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/11_Say_What_(Live_at_the_Knopf_Music_Halle,_Hamburg)_Erasure.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Say What (Remix) [2011 Remastered Version]",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/12_Say_What_(Remix)_[2011_Remastered_Version]_Erasure.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Say What (Remix)",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/13_Say_What_(Remix)_Erasure.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Say What You Want",
+      "artist": "Sheryl Crow",
+      "has_synced": true,
+      "path": "select/14_Say_What_You_Want_Sheryl_Crow.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fai che ci sei (Say What You Want)",
+      "artist": "Paola Turci",
+      "has_synced": false,
+      "path": "select/15_Fai_che_ci_sei_(Say_What_You_Want)_Paola_Turci.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Powerless (Say What You Want) [Album Version]",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/16_Powerless_(Say_What_You_Want)_[Album_Version]_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Powerless (Say What You Want) - Alternative Acoustic Mix",
+      "artist": "Nelly Furtado",
+      "has_synced": false,
+      "path": "select/17_Powerless_(Say_What_You_Want)_-_Alternative_Acoustic_Mix_Nelly_Furtado.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Powerless (Say What You Want) - JOSH - desi REMIX",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/18_Powerless_(Say_What_You_Want)_-_JOSH_-_desi_REMIX_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Say What?",
+      "artist": "B小町 ルビー(CV:伊駒ゆりえ)、有馬かな(CV:潘めぐみ)、MEMちょ(CV:大久保瑠美)",
+      "has_synced": false,
+      "path": "select/pl_01_Say_What_B小町_ルビー(CV_伊駒ゆりえ)、有馬かな(CV_潘めぐみ)、MEMちょ(CV_大久保瑠美).txt"
+    }
+  ]
+}
